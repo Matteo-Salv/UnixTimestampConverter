@@ -1,0 +1,14 @@
+/Users/matteosalvatore/VSCodeProjects/unixTimeStampConverter/UnixTimestampConverter/bin/release/net8.0/win-x64/UnixTimestampConverter.exe
+/Users/matteosalvatore/VSCodeProjects/unixTimeStampConverter/UnixTimestampConverter/bin/release/net8.0/win-x64/UnixTimestampConverter.deps.json
+/Users/matteosalvatore/VSCodeProjects/unixTimeStampConverter/UnixTimestampConverter/bin/release/net8.0/win-x64/UnixTimestampConverter.runtimeconfig.json
+/Users/matteosalvatore/VSCodeProjects/unixTimeStampConverter/UnixTimestampConverter/bin/release/net8.0/win-x64/UnixTimestampConverter.dll
+/Users/matteosalvatore/VSCodeProjects/unixTimeStampConverter/UnixTimestampConverter/bin/release/net8.0/win-x64/UnixTimestampConverter.pdb
+/Users/matteosalvatore/VSCodeProjects/unixTimeStampConverter/UnixTimestampConverter/obj/release/net8.0/win-x64/UnixTimestampConverter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matteosalvatore/VSCodeProjects/unixTimeStampConverter/UnixTimestampConverter/obj/release/net8.0/win-x64/UnixTimestampConverter.AssemblyInfoInputs.cache
+/Users/matteosalvatore/VSCodeProjects/unixTimeStampConverter/UnixTimestampConverter/obj/release/net8.0/win-x64/UnixTimestampConverter.AssemblyInfo.cs
+/Users/matteosalvatore/VSCodeProjects/unixTimeStampConverter/UnixTimestampConverter/obj/release/net8.0/win-x64/UnixTimestampConverter.csproj.CoreCompileInputs.cache
+/Users/matteosalvatore/VSCodeProjects/unixTimeStampConverter/UnixTimestampConverter/obj/release/net8.0/win-x64/UnixTimestampConverter.dll
+/Users/matteosalvatore/VSCodeProjects/unixTimeStampConverter/UnixTimestampConverter/obj/release/net8.0/win-x64/refint/UnixTimestampConverter.dll
+/Users/matteosalvatore/VSCodeProjects/unixTimeStampConverter/UnixTimestampConverter/obj/release/net8.0/win-x64/UnixTimestampConverter.pdb
+/Users/matteosalvatore/VSCodeProjects/unixTimeStampConverter/UnixTimestampConverter/obj/release/net8.0/win-x64/UnixTimestampConverter.genruntimeconfig.cache
+/Users/matteosalvatore/VSCodeProjects/unixTimeStampConverter/UnixTimestampConverter/obj/release/net8.0/win-x64/ref/UnixTimestampConverter.dll

@@ -1,0 +1,2 @@
+/Users/matteosalvatore/VSCodeProjects/unixTimeStampConverter/UnixTimestampConverter/bin/Release/net6.0/win-x64/publish/UnixTimestampConverter.pdb
+/Users/matteosalvatore/VSCodeProjects/unixTimeStampConverter/UnixTimestampConverter/bin/Release/net6.0/win-x64/publish/UnixTimestampConverter.exe

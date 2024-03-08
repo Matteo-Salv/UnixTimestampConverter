@@ -1,0 +1,5 @@
+/Users/matteosalvatore/VSCodeProjects/unixTimeStampConverter/UnixTimestampConverter/bin/release/net8.0/win-x64/publish/UnixTimestampConverter.exe
+/Users/matteosalvatore/VSCodeProjects/unixTimeStampConverter/UnixTimestampConverter/bin/release/net8.0/win-x64/publish/UnixTimestampConverter.dll
+/Users/matteosalvatore/VSCodeProjects/unixTimeStampConverter/UnixTimestampConverter/bin/release/net8.0/win-x64/publish/UnixTimestampConverter.deps.json
+/Users/matteosalvatore/VSCodeProjects/unixTimeStampConverter/UnixTimestampConverter/bin/release/net8.0/win-x64/publish/UnixTimestampConverter.runtimeconfig.json
+/Users/matteosalvatore/VSCodeProjects/unixTimeStampConverter/UnixTimestampConverter/bin/release/net8.0/win-x64/publish/UnixTimestampConverter.pdb

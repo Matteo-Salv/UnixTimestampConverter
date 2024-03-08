@@ -1,0 +1,14 @@
+/Users/matteosalvatore/VSCodeProjects/unixTimeStampConverter/UnixTimestampConverter/obj/Debug/net8.0/UnixTimestampConverter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matteosalvatore/VSCodeProjects/unixTimeStampConverter/UnixTimestampConverter/obj/Debug/net8.0/UnixTimestampConverter.AssemblyInfoInputs.cache
+/Users/matteosalvatore/VSCodeProjects/unixTimeStampConverter/UnixTimestampConverter/obj/Debug/net8.0/UnixTimestampConverter.AssemblyInfo.cs
+/Users/matteosalvatore/VSCodeProjects/unixTimeStampConverter/UnixTimestampConverter/obj/Debug/net8.0/UnixTimestampConverter.csproj.CoreCompileInputs.cache
+/Users/matteosalvatore/VSCodeProjects/unixTimeStampConverter/UnixTimestampConverter/bin/Debug/net8.0/UnixTimestampConverter
+/Users/matteosalvatore/VSCodeProjects/unixTimeStampConverter/UnixTimestampConverter/bin/Debug/net8.0/UnixTimestampConverter.deps.json
+/Users/matteosalvatore/VSCodeProjects/unixTimeStampConverter/UnixTimestampConverter/bin/Debug/net8.0/UnixTimestampConverter.runtimeconfig.json
+/Users/matteosalvatore/VSCodeProjects/unixTimeStampConverter/UnixTimestampConverter/bin/Debug/net8.0/UnixTimestampConverter.dll
+/Users/matteosalvatore/VSCodeProjects/unixTimeStampConverter/UnixTimestampConverter/bin/Debug/net8.0/UnixTimestampConverter.pdb
+/Users/matteosalvatore/VSCodeProjects/unixTimeStampConverter/UnixTimestampConverter/obj/Debug/net8.0/UnixTimestampConverter.dll
+/Users/matteosalvatore/VSCodeProjects/unixTimeStampConverter/UnixTimestampConverter/obj/Debug/net8.0/refint/UnixTimestampConverter.dll
+/Users/matteosalvatore/VSCodeProjects/unixTimeStampConverter/UnixTimestampConverter/obj/Debug/net8.0/UnixTimestampConverter.pdb
+/Users/matteosalvatore/VSCodeProjects/unixTimeStampConverter/UnixTimestampConverter/obj/Debug/net8.0/UnixTimestampConverter.genruntimeconfig.cache
+/Users/matteosalvatore/VSCodeProjects/unixTimeStampConverter/UnixTimestampConverter/obj/Debug/net8.0/ref/UnixTimestampConverter.dll
